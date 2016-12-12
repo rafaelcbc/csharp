@@ -1,0 +1,10 @@
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\bin\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\bin\Debug\EntityFrameworkEscola.Domain.pdb
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.csprojResolveAssemblyReference.cache
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.pdb
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\bin\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\bin\Debug\EntityFrameworkEscola.Domain.pdb
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.csprojResolveAssemblyReference.cache
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.Domain\obj\Debug\EntityFrameworkEscola.Domain.pdb

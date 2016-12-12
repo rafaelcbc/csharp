@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Aluno">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Curso">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAEAAAAAEIAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Entities\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Pessoa">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Entities\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Professor">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAEAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Entities\Professor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Turma">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQAAAAAEACAQAACAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entities\Turma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntityFrameworkEscola.Domain.Entities.Usuario">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

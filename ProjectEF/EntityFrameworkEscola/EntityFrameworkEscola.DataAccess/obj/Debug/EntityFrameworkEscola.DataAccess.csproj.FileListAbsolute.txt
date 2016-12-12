@@ -1,0 +1,30 @@
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.dll.config
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.pdb
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.Domain.pdb
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.pdb
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\log4net.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\Migrations.dll
+C:\Users\comer\Desktop\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\log4net.xml
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.dll.config
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.DataAccess.pdb
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.Domain.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\log4net.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\Migrations.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFrameworkEscola.Domain.pdb
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\bin\Debug\log4net.xml
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.dll
+C:\Users\comer\OneDrive\Projetos\Projetos CSharp\MeusProjetos\ProjectEF\EntityFrameworkEscola\EntityFrameworkEscola.DataAccess\obj\Debug\EntityFrameworkEscola.DataAccess.pdb
