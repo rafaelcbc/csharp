@@ -1,0 +1,6 @@
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\bin\Debug\Linq.Console.exe.config
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\bin\Debug\Linq.Console.exe
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\bin\Debug\Linq.Console.pdb
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\obj\Debug\Linq.Console.csprojResolveAssemblyReference.cache
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\obj\Debug\Linq.Console.exe
+C:\Users\comer\Desktop\Exercicio2\Linq.Console\Linq.Console\obj\Debug\Linq.Console.pdb
