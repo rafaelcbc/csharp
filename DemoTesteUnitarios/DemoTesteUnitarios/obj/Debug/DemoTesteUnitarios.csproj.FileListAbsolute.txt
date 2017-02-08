@@ -1,0 +1,6 @@
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\bin\Debug\DemoTesteUnitarios.dll
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\bin\Debug\DemoTesteUnitarios.pdb
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\obj\Debug\DemoTesteUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\obj\Debug\DemoTesteUnitarios.dll
+C:\Users\rafael.cardoso\Desktop\ProjetosCsharp\DemoTesteUnitarios\DemoTesteUnitarios\obj\Debug\DemoTesteUnitarios.pdb
